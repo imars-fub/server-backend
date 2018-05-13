@@ -1,7 +1,5 @@
 #!/usr/bin/python
-import sys
 import mapscript
-from osgeo import gdal
 
 req = mapscript.OWSRequest()
 req.loadParams()
